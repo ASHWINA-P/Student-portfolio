@@ -1,2 +1,3 @@
 My name is Ashwina.
 iam currently pursuing my automation testing role in hcl
+iam a high level automation tester
